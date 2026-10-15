@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+venv/
+.env
+.streamlit/
+*.joblib
+*.json
+Thumbds.db
+!models/.gitkeep
+!reports/.gitkeep
